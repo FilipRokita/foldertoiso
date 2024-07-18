@@ -37,5 +37,5 @@ This script is released under the MIT License. See [LICENSE](./LICENSE) file for
 
 ## Author
 
-Filip Rokita
+Filip Rokita  
 Website: [www.filiprokita.com](https://www.filiprokita.com/)
