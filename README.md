@@ -12,7 +12,7 @@ To convert a folder to an ISO file, run the script with two command-line argumen
 ## Example
 
 ```
-python foldertoiso.py /path/to/your/folder /path/to/save/your/iso
+python3 foldertoiso.py /path/to/your/folder /path/to/save/your/iso
 ```
 
 ## Requirements
