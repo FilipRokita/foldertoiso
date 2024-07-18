@@ -1,4 +1,4 @@
-# foldertoiso
+# FolderToISO
 
 This Python script `foldertoiso.py` converts a specified folder into an ISO file using the `shutil` library. Here's a brief overview of its functionality and usage:
 
