@@ -31,6 +31,10 @@ python foldertoiso.py /path/to/your/folder /path/to/save/your/iso
 - Ensure that the folder you specify exists and the paths are correct.
 - The resulting file is a ZIP archive renamed with a .iso extension, not a true ISO 9660 image.
 
+## Legal
+
+This program is provided as-is, without warranties or conditions of any kind, either express or implied. By using this program, you agree that the author is not responsible for any damage that may occur as a result of its use.
+
 ## License
 
 This script is released under the MIT License. See [LICENSE](./LICENSE) file for more details.
